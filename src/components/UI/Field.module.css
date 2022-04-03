@@ -1,0 +1,10 @@
+.field {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #000;
+    border-radius: 10px;
+    margin: 0.5rem 0;
+    padding: 1rem 2rem;
+    background-color: #2E2E2E;
+}

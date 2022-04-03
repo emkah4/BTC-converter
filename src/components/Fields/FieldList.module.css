@@ -1,0 +1,12 @@
+.content {
+    font-size: larger;
+}
+
+.remove {
+    max-width: 30px;
+    max-height: 30px;
+}
+
+.remove:hover {
+    fill: #ffdf27;
+}
